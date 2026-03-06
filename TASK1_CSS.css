@@ -19,7 +19,6 @@ a:hover { text-decoration: underline; }
 /* Lists */
 ul { list-style-type: circle; list-style-position: inside; margin-bottom: 10px; }
 li::marker { color: green; font-size: 16px; }
-ul.sra1 { list-style-image: url('star.png'); }
 
 /* Tables */
 table { width: 100%; border-collapse: collapse; margin-bottom: 10px; }
@@ -30,4 +29,5 @@ input { padding: 5px; font-size: 14px; }
 button { padding: 5px 10px; font-size: 14px; cursor: pointer; }
 
 /* Footer */
+
 #footer { text-align: center; margin-top: 20px; }
